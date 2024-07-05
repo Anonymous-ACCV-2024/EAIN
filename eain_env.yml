@@ -1,0 +1,6 @@
+name: eirn_env
+channels:
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+  - defaults
+prefix: /root/miniconda3/envs/eirn_env
